@@ -1,10 +1,5 @@
 # 🚀 CODESOFT Landing Page 🌐
 
-[![Last Commit](https://img.shields.io/github/last-commit/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K)](https://github.com/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K)](https://github.com/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K/issues)
-[![Forks](https://img.shields.io/github/forks/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K)
-[![Stars](https://img.shields.io/github/stars/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K?style=social)](https://github.com/AJ22122003/CODESOFT_LANDING-PAGE_AJINKYA.K)
-
 **✨ Welcome to the CODESOFT Landing Page repository!**
 
 This project contains the source code for a landing page, likely designed for a software or technology-related entity named CODESOFT. Explore the HTML, CSS, and image assets that bring this page to life! 🎨
